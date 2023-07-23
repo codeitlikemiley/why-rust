@@ -1,5 +1,8 @@
 # Why Use Rust?
 
+## AWS take on Rust
+https://aws.amazon.com/blogs/opensource/sustainability-with-rust/
+
 ##   Web Framework Benchmarks
 https://www.techempower.com/benchmarks/#section=data-r21
 
