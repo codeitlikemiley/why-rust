@@ -3,7 +3,7 @@
 ## AWS take on Rust
 https://aws.amazon.com/blogs/opensource/sustainability-with-rust/
 
-##   Web Framework Benchmarks
+##   Web Framework Benchmarks Bare Metal Performance (not serverless/not cloud)
 https://www.techempower.com/benchmarks/#section=data-r21
 
 |Rnk|Framework|Best performance (higher is better)|   |Errors|Cls|Lng|Plt|FE|Aos|DB|Dos|Orm|IA|
